@@ -1,0 +1,3 @@
+- [List of toxic words](https://github.com/surge-ai/profanity/blob/main/profanity_en.csv)
+- [BERT model](https://huggingface.co/bert-base-uncased)
+- [T5](https://huggingface.co/t5-small)
